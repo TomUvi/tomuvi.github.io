@@ -1,5 +1,5 @@
 ---
-title: Tom Uvi – Systems in Progress
+title: Tom Uvi
 ---
 
 # Hi, I’m Tomas

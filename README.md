@@ -1,7 +1,3 @@
----
-title: Tom Uvi – Systems in Progress
----
-
 # Hi, I’m Tomas
 
 Building systems today that grow with tomorrow.
